@@ -7,9 +7,16 @@ Mein persönliches Lern-Repository für CLI-Befehle und Shell-Scripting.
 | # | Thema | Beschreibung |
 |---|-------|--------------|
 | 01 | [Shell-Scripting Basics](01-shell-scripting-basics/) | Variablen, Conditionals, Loops, Functions |
-| 02 | Datei-Operationen | find, xargs, Permissions |
-| 03 | Text-Verarbeitung | grep, sed, awk, Pipes |
-| 04 | Prozess-Management | ps, top, kill, Jobs |
+| 02 | [Datei-Operationen](02-datei-operationen/) | find, xargs, Permissions |
+| 03 | [macOS-Dateisystem](03-macos-dateisystem/) | Verzeichnisstruktur, Spotlight, Finder |
+| 04 | [Text-Verarbeitung](04-text-verarbeitung/) | grep, sed, awk, Pipes |
+| 05 | [Prozess-Management](05-prozess-management/) | ps, top, kill, Jobs |
+| 06 | [Netzwerk & Remote](06-netzwerk-remote/) | curl, ssh, scp, rsync, Netzwerk-Diagnose |
+| 07 | [Archivierung & Backup](07-archivierung-backup/) | tar, gzip, zip, rsync, Backup-Strategien |
+| 08 | [Shell-Konfiguration](08-shell-konfiguration/) | .zshrc, PATH, alias, Dotfiles |
+| 09 | [Debugging & Fehlerbehandlung](09-debugging-fehlerbehandlung/) | set -e, trap, Exit-Codes, ShellCheck |
+| 10 | [Job Scheduling](10-job-scheduling/) | cron, launchd, Automatisierung |
+| 11 | [System-Monitoring & Logs](11-system-monitoring-logs/) | top, htop, log, Ressourcen-Überwachung |
 
 ## Struktur pro Thema
 
