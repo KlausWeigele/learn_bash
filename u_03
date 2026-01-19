@@ -1,0 +1,16 @@
+#!/bin/bash
+
+
+for i in {5..10};do
+  echo "$i" | wc >> out.txt
+done
+
+
+x=10
+while [ $x -gt 5 ]; do
+  echo "X ist $x"
+  ((x--))
+done
+   
+
+

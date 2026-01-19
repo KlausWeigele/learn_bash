@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+echo "$1 und $2"
+echo "$ARGUMENTS"

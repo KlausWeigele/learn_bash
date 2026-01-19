@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/
+
+# Temporäre Dateien
+*.tmp
+*.swp
